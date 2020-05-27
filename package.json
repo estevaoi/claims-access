@@ -1,6 +1,6 @@
 {
   "name": "claims-access",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Access control to user permissions",
   "main": "claims_access.js",
   "scripts": {
