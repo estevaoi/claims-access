@@ -1,0 +1,24 @@
+{
+  "name": "claims-access",
+  "version": "1.0.0",
+  "description": "Access control to user permissions",
+  "main": "claims_access.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estevaoi/claims-access.git"
+  },
+  "keywords": [
+    "claims",
+    "access",
+    "control"
+  ],
+  "author": "Estêvão Silva <estevaonorberto@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/estevaoi/claims-access/issues"
+  },
+  "homepage": "https://github.com/estevaoi/claims-access#readme"
+}
